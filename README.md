@@ -6,7 +6,7 @@ RFCs (Requests for Comments) are intended to help make decision-making more coll
 There might be a bit of steep learning curve, but fear not. Here is a quick step-by-step on how to submit an RFC without the need for console skills.
 
 **Step 1: SETUP**  
-Although it is possible to write your RFC entirely within Github, it might be easier to use an editor where you can visualize markdown* such as [Atom](https://atom.io/) or [StackEdit](https://stackedit.io/app#).
+Although it is possible to write your RFC entirely within Github, it might be easier to use an editor that can visualize markdown* such as [Atom](https://atom.io/) or [StackEdit](https://stackedit.io/app#). This means you won't need to deal with commits or branches until your first draft is ready for review.
 
 **Note:** Markdown (the markup language used for formatting text in Github) can be a bit tricky to get the hang of if you're not used to it. Incidently, you might find helpful some tips on how to write Markdown  [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
@@ -16,7 +16,7 @@ In your text editor of choice:
 2. Save your changes locally.
 
 **Step 3: SUBMIT**  
-When you've finished your master piece:
+When you've finished your masterpiece:
 1. Go to the folder `RFCs` and click `upload file`. Find and select your RFC file.
 2. Once uploaded, at the bottom, leave the short commit message `Submit RFC [title]`.
 3. Select `Create a new branch for this commit and start a pull request.` and name the branch with the following naming convention: `RFC-Your-title-here`. This will split your work away from the main Master branch.
