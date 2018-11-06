@@ -13,3 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Proposed Solution
 
 _What are the possible solutions and why is this proposal better than the other possible solutions? What is the scope? What requirements do you need for this proposal (tech, people, processes, etc.)? What are the ramifications/ expected results of this solution? How will you know if it succeeded or failed? What is your approach exactly? What other areas may be impacted by this solution (teams, existing systems, processes etc)?_
+
+Added this new line after first commit.
