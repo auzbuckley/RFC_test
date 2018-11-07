@@ -7,7 +7,7 @@ Slack Channel: #dhg-rfc
 RFCs (Requests for Comments) are intended to help make decision-making more collaborative and transparent. They are used mostly for _internal solution proposals_ i.e. process changes, (most) tech solutioning and optimizing, job advertisements. RFCs are intended to be lightweight and relatively quick to create and review.
 
 ## How are they different from the Opportunity Canvas (IRIS)?
-The Opportunity Canvas is specifically for product opportunies or what could be considered as _external_ solutions. Usually this comes in the form of new feature ideas. Essentially, the rule of thumb is: if your proposal is likely going to require coordinated effort of development teams to ship something to our customers, then this is Opportunity Canvas territory.
+The Opportunity Canvas is specifically for product opportunities or what could be considered as _external_ solutions. Usually this comes in the form of new feature ideas. Essentially, the rule of thumb is: if your proposal is likely going to require coordinated effort of development teams to ship something to our customers, then this is Opportunity Canvas territory.
 
 ## Process Overview
 1. Find a sponsor (this will be the person who ultimately has authority to approve your RFC). This can be your manager.
@@ -43,6 +43,6 @@ People may start commenting on your PR (Pull Request for those of you less nerdy
 You can reply to comments, or you can make an amendment directly from within Github. Just edit the file and when you're done leave an appropriate short commit message summarizing the change(s) you made.
 
 ## Guidelines  
-Authors: Try to keep your RFC as brief and succinct as possible  
-Reviewers: Comments on RFCs should be constructive. If you have a concern, please offer an alternative solution if you can.
+**Authors:** Try to keep your RFC as brief and succinct as possible  
+**Reviewers:** Comments on RFCs should be constructive. If you have a concern, please offer an alternative solution if you can.
 
