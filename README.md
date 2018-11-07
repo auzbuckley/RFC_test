@@ -12,10 +12,11 @@ The Opportunity Canvas is specifically for product opportunities or what could b
 ## Process Overview
 1. Find a sponsor (this will be the person who ultimately has authority to approve your RFC). This can be your manager.
 2. Write and submit your RFC
-3. Respond to comments
-4. Evaluate feedback with your sponsor
-5. Close or Merge the RFC
-6. If merged, your RFC will be discussed and prioritized in Product & Tech Council depending on complexity and effort.
+3. Briefly present your idea during Friday Reviews.
+4. Respond to comments
+5. Evaluate feedback with your sponsor
+6. Close or Merge the RFC
+7. If merged, your RFC will be discussed and prioritized in Product & Tech Council depending on complexity and effort.
 
 ## Getting started
 There might be a bit of steep learning curve, but fear not. Here is a quick step-by-step on how to submit an RFC without the need for console skills.
