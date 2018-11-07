@@ -15,7 +15,7 @@ The Opportunity Canvas is specifically for product opportunities or what could b
 3. Briefly present your idea during Friday Reviews.
 4. Respond to comments
 5. Evaluate feedback with your sponsor
-6. Close or Merge the RFC
+6. Close or Merge the RFC (Communicated during Friday reviews?)
 7. If merged, your RFC will be discussed and prioritized in Product & Tech Council depending on complexity and effort.
 
 ## Getting started
