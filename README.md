@@ -1,3 +1,8 @@
+### Quick Links
+[DHG RFC Board](https://github.com/auzbuckley/RFC_test/projects/1)  
+Slack Channel: #dhg-rfc  
+[RFC Template](https://github.com/auzbuckley/RFC_test/blob/master/RFCs/rfc_template.md)
+
 ## What are RFCs?
 RFCs (Requests for Comments) are intended to help make decision-making more collaborative and transparent. They are used mostly for _internal solution proposals_ i.e. process changes, (most) tech solutioning and optimizing, job advertisements. RFCs are intended to be lightweight and relatively quick to create and review.
 
@@ -40,8 +45,4 @@ You can reply to comments, or you can make an amendment directly from within Git
 ## Guidelines  
 Authors: Try to keep your RFC as brief and succinct as possible  
 Reviewers: Comments on RFCs should be constructive. If you have a concern, please offer an alternative solution if you can.
-
-## Where to view RFCs?
-[DHG RFC Board](https://github.com/auzbuckley/RFC_test/projects/1)  
-Slack Channel: #dhg-rfc
 
