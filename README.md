@@ -1,6 +1,6 @@
 # What are RFCs?
 
-RFCs (Requests for Comments) are intended to help make decision-making more collaborative and transparent. They are used mostly for internal solution proposals i.e. process changes, tech solutioning, and anything that is not addressing an external business or product opportunity - for which the Opportunity Canvas is more suitable.
+RFCs (Requests for Comments) are intended to help make decision-making more collaborative and transparent. They are used mostly for _internal solution proposals_ i.e. process changes, tech solutioning. Anything that is _not_ addressing an external business or product opportunity - for which the Opportunity Canvas is more suitable.
 
 # But I've never used github before... isn't it for developers?
 There might be a bit of steep learning curve, but fear not. Here is a quick step-by-step on how to submit an RFC without the need for console skills.
@@ -19,7 +19,7 @@ In your text editor of choice:
 When you've finished your masterpiece:
 1. Go to the folder `RFCs` and click `upload file`. Find and select your RFC file.
 2. Once uploaded, at the bottom, leave the short commit message `Submit RFC [title]`.
-3. Select `Create a new branch for this commit and start a pull request.` and name the branch with the following naming convention: `RFC-Your-title-here`. This will split your work away from the main Master branch.
+3. Select `Create a new branch for this commit and start a pull request.`. Name the branch with the following naming convention: `RFC-Your-title-here`. This will split your work away from the main Master branch.
 4. Click `Commit changes`. This will create a Pull Request, essentially requiring review before it can be merged back into Master.
 5. Your pull request has now been submitted and a trigger has been sent to our RFC slack channel to request review. Now is your time to sit back, and... get back to work.
 
