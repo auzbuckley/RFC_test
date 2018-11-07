@@ -44,5 +44,5 @@ You can reply to comments, or you can make an amendment directly from within Git
 
 ## Guidelines  
 **Authors:** Try to keep your RFC as brief and succinct as possible  
-**Reviewers:** Comments on RFCs should be constructive. If you have a concern, please offer an alternative solution if you can.
+**Reviewers:** Comments on RFCs should be constructive. If you have a concern, please offer an alternative solution if you can. If the comment thread starts to grow, go talk face-to-face.
 
